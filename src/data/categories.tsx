@@ -2,7 +2,7 @@ const categories = [
   {
     id: 1,
     name: "Apostilas",
-    icon: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=400&auto=format",
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKvFXrPI-XffuVCvQBvC76gblp4xzXEN8nA&s",
   },
   {
     id: 2,

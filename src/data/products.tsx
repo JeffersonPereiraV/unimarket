@@ -4,7 +4,7 @@ const products = [
     name: "Caixa de Chocolate Branco",
     price: 8.0,
     image:
-      "https://plus.unsplash.com/premium_photo-1736852273336-7e12337ad251?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://acdn-us.mitiendanube.com/stores/001/071/840/products/_0036__0038_disiena3_0012_camada-31-5873f7dba41a25b93e16934051631606-640-0.jpg",
     rating: 4.8,
     category: 2,
     seller: {
